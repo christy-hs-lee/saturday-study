@@ -51,3 +51,9 @@
 [WIki URL](https://github.com/christy-hs-lee/saturday-study/wiki/%ED%86%A0%EC%9A%94%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8)
 
 ---
+
+### 📅 2023.02.04 (토) Week#7
+###### 👨‍👩‍👦‍👦 참여자 : 혜모리, 무리, 크리스티, 카키
+
+#### [금주 실험 주제🧑🏻‍🔬] **고차 함수** <br/>
+[WIki URL](https://github.com/christy-hs-lee/saturday-study/wiki/%ED%86%A0%EC%9A%94%EC%8A%A4%ED%84%B0%EB%94%94-7%EC%A3%BC%EC%B0%A8)
